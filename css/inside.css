@@ -1,0 +1,62 @@
+.inside {
+
+	margin: 30px auto;
+	
+	border:2px solid grey;
+	border-collapse: collapse;
+	width: 100%;
+	border-radius: 2px;
+
+} 
+
+.inside th{
+    color:#FFFFFF;
+	padding:3px;
+	border:2px solid grey;
+	background-color:red;
+
+}
+
+.inside td {
+     font-weight: bold;
+	padding:3px;
+	border : 2px solid grey;
+	//text-align: left;
+	margin: 3px;
+}
+
+.inside tr {
+     border:2px solid grey;
+
+}
+
+
+.reply-form {
+
+   border:none;
+   padding:5px;
+   margin:20px auto;
+   float:left;
+   margin-top: 50px;
+  
+}
+
+
+.reply-form input{
+	display:block;
+	//width:250px;
+	font-size: 14px;
+	border-radius:4px;
+	border: 1px solid grey;
+	
+	
+}
+
+.reply-form  textarea {
+	border-radius:4px;
+	max-width:400px;
+	min-width:300px;
+	height: 100px;
+	
+	
+}

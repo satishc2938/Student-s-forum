@@ -1,0 +1,11 @@
+.prefooter {
+	background-color : #474747;
+	color:white;
+	clear:both;
+	position :fixed;
+	bottom:0px;
+	margin: 0px auto;
+	width:96%;
+	text-align:center;
+}
+
